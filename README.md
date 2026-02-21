@@ -55,14 +55,45 @@ com.devraaf.stackLiteraria <br>
 
 <hr>
 
-### ⚙️ Funcionalidades
-✔ Buscar livro por nome (consumindo API externa)
-✔ Registrar livro no banco de dados
-✔ Registrar autor automaticamente
-✔ Listar livros cadastrados
-✔ Listar autores cadastrados
-✔ Listar autores vivos em um determinado ano
-✔ Filtrar livros por idioma
+### ⚙️ Funcionalidades e demonstração 
+
+<table>
+  <tr>
+    <td valign="top">
+<br>
+🔎 Buscar livro por nome (consumindo API externa) <br>
+     <br>
+🗃️ Registrar livro no banco de dados<br>
+      <br>
+👤 Registrar autor automaticamente<br>
+      <br>
+📚 Listar livros cadastrados<br>
+      <br>
+👨🏽‍🏫 Listar autores cadastrados<br>
+      <br>
+📅 Listar autores vivos em um determinado ano<br>
+      <br>
+🌐 Filtrar livros por idioma<br>
+</td>
+
+<td>
+
+![stack-literaria](https://github.com/user-attachments/assets/f53088e1-c881-4bf5-a585-88a3a1555755)
+
+</td>
+  </tr>
+</table>
+
+### ▶️ Como executar
+1. Clone o repositório <br>
+   `git clone https://github.com/devraaf/stack-literaria.git`
+2. Entre na pasta <br>
+  `cd stack-literaria`
+3. Execute a aplicação <br>
+  `./mvnw spring-boot:run`
+
+
+<hr>
 
 #### 👩🏽‍💻 Desenvolvido por Rafaela
 Projeto educacional para fins de aprendizado.
