@@ -1,11 +1,16 @@
 # 📚Stack Literária 
-Sistema de catálogo de livros desenvolvido em Java + Spring Boot, com integração a API externa para busca de obras e persistência em banco de dados utilizando JPA/Hibernate.
+> Sistema de catálogo de livros desenvolvido em Java + Spring Boot, com integração a API externa para busca de obras e persistência em banco de dados utilizando JPA/Hibernate.
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ### 🚀 Sobre o Projeto
 
 O Stack Literária é uma aplicação backend desenvolvida durante o curso de Java & Spring Boot da Alura, com o objetivo de consolidar conhecimentos em:
 
 <ul>
- <li>Java moderno</li>
+ <li>Java</li>
   
   <li>Programação Orientada a Objetos</li>
   
@@ -41,6 +46,7 @@ O Stack Literária é uma aplicação backend desenvolvida durante o curso de Ja
   
  <li>API Gutendex</li>
 </ul>
+
 
 <hr>
 
